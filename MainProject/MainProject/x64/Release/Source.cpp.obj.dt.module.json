@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "MainProject\\x64\\Release\\Source.obj",
+            "outputs": [
+                "MainProject\\x64\\Release\\Source.cpp.obj.dt.module.json",
+                "MainProject\\x64\\Release\\Source.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

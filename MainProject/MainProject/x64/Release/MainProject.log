@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\Danila\source\repos\MainProject\Source.cpp(86,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Danila\source\repos\MainProject\Source.cpp(87,16): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\Danila\source\repos\MainProject\Source.cpp(95,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\source\repos\MainProject\Source.cpp(96,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\source\repos\MainProject\Source.cpp(101,21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\source\repos\MainProject\Source.cpp(102,18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,43): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,43): warning C4244:         with
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,43): warning C4244:         [
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,43): warning C4244:             _Tp=int
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,43): warning C4244:         ]
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,26): warning C4244: аргумент: преобразование "float" в "_Tp", возможна потеря данных
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,26): warning C4244:         with
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,26): warning C4244:         [
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,26): warning C4244:             _Tp=int
+C:\Users\Danila\source\repos\MainProject\Source.cpp(120,26): warning C4244:         ]
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 174 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  MainProject.vcxproj -> C:\Users\Danila\source\repos\MainProject\x64\Release\MainProject.exe
